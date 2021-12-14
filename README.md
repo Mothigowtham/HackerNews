@@ -6,8 +6,9 @@ In this project, I compared two types of posts (Ask HN and Show HN) from a popul
 
 Users submit Ask HN posts to ask the Hacker News community a specific question and Show HN posts to show the community a project, product, or just generally something interesting. I compared these two types of posts to determine the following:
 
-Do Ask HN or Show HN receive more comments on average?
-Do posts created at a certain time receive more comments on average?
+1. Do Ask HN or Show HN receive more comments on average?
+2. Do posts created at a certain time receive more comments on average?
+ 
 I used the datetime module to access the date and time information of each posts using the datetime.strptime() constructor, datetime.strftime() method etc.,
 
 This dataset was reduced by removing all submissions that did not receive any comments, and then randomly sampled from the remaining submissions.
