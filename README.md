@@ -1,5 +1,5 @@
 # HackerNews
-Comparing Ask HN and Show HN posts from HackerNews site. This is guided analysis from the Data Analysis course by Dataquest.
+Comparing Ask HN and Show HN posts from HackerNews site.
 
 ##Hacker News Posts Analysis
 In this project, I compared two types of posts (Ask HN and Show HN) from a popular site known as Hacker News for technology related stories.
